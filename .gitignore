@@ -7,4 +7,3 @@
 /infra/terraform.tfvars
 /infra/*.tfvars
 *.auto.tfvars.json
-

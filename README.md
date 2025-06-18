@@ -38,7 +38,6 @@ al almacén de datos. El análisis tendrá lugar a nivel del grupo de centros de
 centros de costos. 
 Por favor identifique el hecho de interés y construya el Modelo Dimensional y su respectivo diagrama físico
 
-
 ### Ejercicio N° 02: Reservas de viaje 
 
 En este esquema de E / R, un cliente (que es de cierto tipo) reserva un viaje en una agencia de viajes. La agencia de viajes 
@@ -48,7 +47,6 @@ La dimensión de tiempo consiste en mes, trimestre y año.
 ![image](assets/329793731-2de3ed8a-1280-4f5e-af20-6e2efef8f89e.png)
 
 Por favor identifique el hecho de interés y construya el Modelo Dimensional y su respectivo esquema físico
-
 
 ### Ejercicio N° 03: Gestión de proyectos 
 
@@ -61,7 +59,6 @@ La dimensión de tiempo consiste de día, mes y año
 
 Por favor identifique el hecho de interés y construya el Modelo Dimensional. Incluya un atributo de hecho adicional que 
 cuente la cantidad de paquetes de trabajo. Asimismo, realice el diagrama físico
-
     
 ## ACTIVIDAD ENCARGADA
 
